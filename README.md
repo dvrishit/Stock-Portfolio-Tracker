@@ -17,10 +17,14 @@ A simple and interactive web app built using **Python** and **Streamlit** that l
 ## 📦 Installation
 
 1. **Clone the repository:**
+    ```
    - git clone <your_repo_link>
    - cd stock-portfolio-tracker
+   ```
 2. **Create a virtual environment:**
+   ```
    - python -m venv venv
+   ```
 3. **Activate the environment**  
 - **Windows**  
   ```
@@ -35,7 +39,7 @@ A simple and interactive web app built using **Python** and **Streamlit** that l
 ## ▶️ Running the App
 With your virtual environment activated, launch the app:
 ```
-**streamlit run app.py**
+streamlit run app.py
 ```
 
 ## 🧠 How It Works

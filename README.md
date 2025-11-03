@@ -21,12 +21,12 @@ A simple and interactive web app built using **Python** and **Streamlit** that l
    - cd stock-portfolio-tracker
 2. **Create a virtual environment:**
    - python -m venv venv
-3. **Activate it:**
+3. **Activate it:**  
   Windows:
-  - venv\Scripts\activate
+  - venv\Scripts\activate  
   macOS/Linux:
-  - source venv/bin/activate4
-4. **Install all dependencies -**
+  - source venv/bin/activate4  
+4. **Install all dependencies -**  
   - pip install -r requirements.txt
 
 ## ▶️ Running the App:

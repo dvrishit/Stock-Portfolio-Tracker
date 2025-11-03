@@ -21,18 +21,22 @@ A simple and interactive web app built using **Python** and **Streamlit** that l
    - cd stock-portfolio-tracker
 2. **Create a virtual environment:**
    - python -m venv venv
-3. **Activate it:**  
-  Windows:
-  - venv\Scripts\activate  
-  macOS/Linux:
-  - source venv/bin/activate4  
-4. **Install all dependencies -**  
-  - pip install -r requirements.txt
+3. **Activate the environment**  
+- **Windows**  
+  ```
+  venv\Scripts\activate
+  ```
+- **macOS/Linux**  
+  ```
+  source venv/bin/activate
+  ```  
+4. **Install all dependencies**
 
-## ▶️ Running the App:
-Make sure your virtual environment is active.
-- To start the project, run:
+## ▶️ Running the App
+With your virtual environment activated, launch the app:
+```
 **streamlit run app.py**
+```
 
 ## 🧠 How It Works
 1. The app fetches live and historical stock data using **yfinance**.
